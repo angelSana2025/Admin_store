@@ -53,3 +53,8 @@ mi-tienda-admin/
 ├── .env.production          # Variables para producción
 ├── vite.config.js           # Configuración de Vite
 └── package.json
+
+
+
+
+* libreria para  diseño https://www.heroui.com/docs/components/date-picker
